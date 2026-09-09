@@ -1,0 +1,18 @@
+*{
+    margin: 5;
+    padding: 10;
+     box-sizing: border box;
+  }
+  h1{
+    color: RED;
+    font-size: 100px;
+    text-transform: uppercase;
+  }
+  hr{
+    background-color: black;
+  }
+  
+  P{
+    background-color: RED;
+    font-color: white;
+  }
